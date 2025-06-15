@@ -4,7 +4,7 @@
 **Evolutionary Conservation of the Hemoglobin Beta (HBB) Gene Across Species**
 
 ## 👩‍💻 Author
-**Your Full Name**  
+**Pavithra.R**  
 BioinformHer Cohort – Module 2
 
 ## 🧠 Project Objective
@@ -19,10 +19,6 @@ To investigate the evolutionary conservation of the Hemoglobin Beta (HBB) gene a
 
 ## 📂 Files Included
 - `HBB_MiniProject_YourFullName.pdf` – Final project report  
-- `MSA.aln` – Multiple sequence alignment file  
-- `PhylogeneticTree.png` – Screenshot of generated tree  
-- `SequenceLogo.svg` – Logo showing conserved residues  
-- Any other alignment files/screenshots (optional)
 
 ## 📝 Report Summary
 This mini-project showcases how the HBB gene is conserved across species. Results confirm that humans and chimpanzees have the closest evolutionary relationship based on HBB sequence similarity. The phylogenetic tree and sequence logo highlight conserved regions likely essential for hemoglobin function.
